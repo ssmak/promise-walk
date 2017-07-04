@@ -1,0 +1,28 @@
+{
+  "name": "promise-walk",
+  "version": "1.0.0",
+  "description": "Call array of promises in order (no resolve content will be reserved).",
+  "main": "test.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssmak/promise.walk.git"
+  },
+  "keywords": [
+    "promise",
+    "in",
+    "order",
+    "serial",
+    "runner"
+  ],
+  "author": "ssmak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ssmak/promise.walk/issues"
+  },
+  "homepage": "https://github.com/ssmak/promise.walk#readme"
+}
