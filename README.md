@@ -1,6 +1,8 @@
 # promise.walk
 Call promises in sequential order and return all the resolved contents to the callback function. (Rejected promise will not block the further promise execution.)
 
+<a href="https://nodei.co/npm/promise-walk/"><img src="https://nodei.co/npm/promise-walk.png"></a>
+
 ## how to use?
 Install dependence:
 ```code
