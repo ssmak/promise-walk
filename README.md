@@ -30,7 +30,7 @@ var banana = function () {
 	});
 };
 
-//call promises in sequential order without concerning the return result
+//call promises in sequential order and get back the results
 pw.walk([apple, banana, orange], function (results) {
 	console.log('All promise results are stored here:');
 	console.log(results);
