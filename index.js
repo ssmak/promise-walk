@@ -20,27 +20,4 @@ const PromiseWalk = {
 
 modules.export = PromiseWalk;
 
-/*
-var apple = function () { 
-	return new Promise(function (resolve, reject) {
-		setTimeout(function () { console.log('apple'); resolve(); }, 3000);
-	});
-};
-
-var orange = function () {
-	return new Promise(function (resolve, reject) {
-		setTimeout(function () { console.log('orange'); resolve(); }, 1000);
-	});
-};
-
-var banana = function () {
-	return new Promise(function (resolve, reject) {
-		setTimeout(function () { console.log('banana'); resolve(); }, 2000);
-	});
-};
-
-PromiseWalk.walk([apple, banana, orange], function () {
-	console.log('done!');
-});
-*/
 
