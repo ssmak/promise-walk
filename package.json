@@ -1,6 +1,6 @@
 {
   "name": "promise-walk",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Call array of promises in order (no resolve content will be reserved).",
   "main": "test.js",
   "dependencies": {},
