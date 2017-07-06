@@ -18,6 +18,6 @@ const PromiseWalk = {
 	}
 }
 
-modules.export = PromiseWalk;
+module.exports = PromiseWalk;
 
 
